@@ -1,4 +1,4 @@
-package com.example.servico_1;
+package com.example.servico_1.config;
 
 import com.example.servico_1.model.Advogado;
 import com.example.servico_1.repository.AdvogadoRepository;
